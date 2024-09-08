@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stmuev.github.io/sYT/sitemap.sYT.gz
