@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stmuev.csgad.com/Cia/sitemap.xml.gz
